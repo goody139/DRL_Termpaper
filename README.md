@@ -1,0 +1,6 @@
+# DRL_Termpaper
+This repository contains a termpaper for the course Deep reinforcement learning.
+
+## Is Deep Reinforcement Learning superhuman on atari?
+The Arcade learning environment (ALE) is offering 57 Atari games which are used in the Deep Reinforcement learning (DRL) community as a benchmark to evaluate the generality of a DRL agent. There have been several improvements on agents and also a lot of different approaches. Giving an overview, seven different DRL agents and their performance on the Atari benchmark are shown. In order to make a proper comparison possible, the most important metrics and also the current state of affairs is presented regarding challenges, achievements and goals. During the course of this paper the meaning for DRL will be highlighted. Connected to that the question is raised whether first the current state of the art agent GDI-I3 is superhuman and second whether DRL is generally superhuman on Atari. Additionally, the underlying Generalized Data Iteration (GDI) algorithm will be explained in more detail for the purpose of showing the current state of affairs in research since GDI-I3 is the current state of the art (SOTA) agent which has outperformed all other approaches so far in the mean HNS, HWRB and HWRNS
+metrics.
